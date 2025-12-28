@@ -1,5 +1,14 @@
 [
-  "$addRole","$removeRole","$sendMessage[message;(yes/no)]","$editMessage",
-  "$if[condition]","$else","$elseif[condition]","$endif",
-  "$try","$catch","$endtry","$addButton"
+  "$addRole",
+  "$removeRole",
+  "$sendMessage[message;(yes/no)]",
+  "$editMessage",
+  "$if[condition]",
+  "$else",
+  "$elseif[condition]",
+  "$endif",
+  "$try",
+  "$catch",
+  "$endtry",
+  "$addButton[(yes/no);buttonId;label;style;(yes/no);(emoji);(messageId)]"
 ]
