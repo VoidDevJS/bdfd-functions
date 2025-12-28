@@ -1,5 +1,5 @@
 [
-  "$addRole",
+  "$addRole[]",
   "$removeRole",
   "$sendMessage[message;(yes/no)]",
   "$editMessage",
