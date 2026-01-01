@@ -136,7 +136,7 @@
   "$eval[Source code]",
   "$executionTime",
   "$findChannel[Channel]",
-  "$findRole[Role]","
+  "$findRole[Role]",
   "$findUser[User;(Return author ID?)]",
   "$floor[Number]",
   "$footer[Text;(Index)]",
